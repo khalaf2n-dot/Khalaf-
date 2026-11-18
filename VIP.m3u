@@ -190,23 +190,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #EXTINF:0 tvg-logo="https://assets.goal.com/images/v3/blt11f0ca9698828744/beINSPORTS-XTRA_ESPANOL-LOGO.jpg?auto=webp&format=pjpg&width=3840&quality=60" group-title="Sports", Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein1.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 1 
 https://alok.mohamedabomalek632.workers.dev:443/22.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 2 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein2.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 2 
 https://alok.mohamedabomalek632.workers.dev:443/23.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 3 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein3.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 3 
 https://alok.mohamedabomalek632.workers.dev:443/31.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_4.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 4 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein4.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 4 
 https://alok.mohamedabomalek632.workers.dev:443/25.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_5.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 5 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein5.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 5 
 https://alok.mohamedabomalek632.workers.dev:443/26.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_6.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 6 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein6.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 6 
 https://alok.mohamedabomalek632.workers.dev:443/27.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_7.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 7 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein7.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 7 
 https://alok.mohamedabomalek632.workers.dev:443/28.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_8.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein8.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 8 
 http://restreamott.xyz/live/restreamtreetv/Arenatomas11/161738.ts
-#EXTINF:-1 tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_9.png" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 9 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/Bein9.jpeg" group-title="BEIN SPORT |AP|",|AP| | BEIN SPORT 9 
 http://restreamott.xyz/live/restreamtreetv/Arenatomas11/161739.ts
 #EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="SOLO| SOLO SPORTS 4K HDR " tvg-logo="http://163.172.73.81/mylogo20191019/beinhd/solo.png" group-title="SOLO SPORT |LIVE EVENT solo|",|SOLO|  4K HDR 
 http://pro.prince4k.com:7355/live/31537105103636621/U09ZEDdu@6X!PeD/239610.ts
