@@ -18,7 +18,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="bein sport [4K]" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" group-title="|4K|", bein sport 4K UHD HDR
 https://alok.mohamedabomalek632.workers.dev:443/624.ts
-#EXTINF:-1 tvg-name="Thmanayh 1 4K" tvg-logo="https://github.com/khalaf2n-dot/Khalaf-/blob/main/IMG_3167.png?raw=true" group-title="Thmanayh 8 ⚽ RSL",Thmanayh 1 4K
+#EXTINF:-1 tvg-name="Thmanayh 1 4K" tvg-logo="https://github.com/khalaf2n-dot/Khalaf-/blob/main/IMG_3167.png?raw=true" group-title="|4K|",Thmanayh 1 4K
 http://ottcdn.site/live/MAG848LXPJ/MAGLXT526V/1470226.ts
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/121x91/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746" ggroup-title="TNT FR",FR | TF1 4K UHD HDR
 http://9.95856.org:2052/live/cjfwWjebeuTr/mNSdwXyZT9xu/261534.ts
