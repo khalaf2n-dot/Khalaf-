@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original/1200px-IRIB_FARATAR_UHD.png" group-title="4k",irib_4k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/IRIB_FARATAR_UHD.png" group-title="4k",irib_4k
 https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="4k",Love_Nature_4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
