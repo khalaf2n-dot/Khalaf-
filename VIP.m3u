@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1200px-IRIB_FARATAR_UHD.png" group-title="4k",irib,4k
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/1200px-IRIB_FARATAR_UHD.png" group-title="4k",irib_4k
 https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
-#EXTINF:-1 tvg-logo="xxxx" group-title="4k",Love_Nature_4K
+#EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="4k",Love_Nature_4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 #EXTINF:-1 group-title="4k",Stingray Festival 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
