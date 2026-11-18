@@ -3,11 +3,6 @@
 https://live-aburayhan1103.telewebion.net/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="4k",Love_Nature_4K
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
-#EXTINF:-1 group-title="4k",Stingray Festival 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:a7adcdd227b092c16636adcab908d77f
-https://lott3-stb-opus.cdn.avp.telus.net/232006004231/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 #EXTINF:-1 group-title="4k",Fox sports 4k  event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
