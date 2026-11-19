@@ -1,41 +1,834 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 4K HDR UHD (Résolution Exclus)" tvg-logo="https://i.imgur.com/UlG9dS2.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 4K HDR UHD (Résolution Exclus)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/37744
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112613
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ 4K HDR UHD (Résolution Exclusive)" tvg-logo="https://i.imgur.com/VS7FjBB.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ 4K HDR UHD (Résolution Exclusive)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/4075
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE 4K UHD" tvg-logo="https://i.imgur.com/WVqzvbp.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112612
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ ÉVÉNEMENT 4K HDR" tvg-logo="https://i.imgur.com/JBURuLN.png" group-title="FR SPORTS (France)",|FR| CANAL+ ÉVÉNEMENT 4K HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/24083
-#EXTINF:-1 tvg-id="TVLux.be" tvg-name="|FR| LUXE TV 4K UHD" tvg-logo="https://i.imgur.com/1pVyxZ0.png" group-title="FR TV FULL HD|4K  (France)",|FR| LUXE TV 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/19566
-#EXTINF:-1 tvg-id="beINSports4K.qa" tvg-name="|AR| BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)" tvg-logo="https://i.imgur.com/WwH58EE.png" group-title="BeIN & Sports & Entertainment (Arabic)",|AR| BEIN SPORTS 4K HDR NATIVE EXCLUSIVE (LIVE MATCH ONLY)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/104974
-#EXTINF:-1 tvg-id="RTLUHD.de" tvg-name="|DE| RTL UHD 4K" tvg-logo="" group-title="ALLEMANDES (Deutsch)",|DE| RTL UHD 4K
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112571
-#EXTINF:-1 tvg-id="" tvg-name="|DE| 3+ UHD 4K HDR (EXCLUSIVE)" tvg-logo="" group-title="ALLEMANDES (Deutsch)",|DE| 3+ UHD 4K HDR (EXCLUSIVE)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112417
-#EXTINF:-1 tvg-id="" tvg-name="|DE| TRAVEL XP 4K HDR" tvg-logo="" group-title="ALLEMANDES (Deutsch)",|DE| TRAVEL XP 4K HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/2289
-#EXTINF:-1 tvg-id="SkySportBundesligaUHD.de" tvg-name="|DE| SKY FuBball BUNDESLIGA 4K HDR (EXCLUSIVE)" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/germany/sky-sport-bundesliga-uhd-de.png" group-title="ALLEMANDES (Deutsch)",|DE| SKY FuBball BUNDESLIGA 4K HDR (EXCLUSIVE)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/88281
-#EXTINF:-1 tvg-id="SkySportUHD.de" tvg-name="|DE| SKY SPORTS 4K HDR (Exclusive)" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/germany/sky-sport-uhd-de.png" group-title="ALLEMANDES (Deutsch)",|DE| SKY SPORTS 4K HDR (Exclusive)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/88280
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="|ES| TVE LA 1 4K UHD" tvg-logo="http://i.imgur.com/XtAYr2M.png" group-title="ESPAGNOLES (España)",|ES| TVE LA 1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112493
-#EXTINF:-1 tvg-id="Ten.es" tvg-name="|ES| DAZN F1 4K UHD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="ESPAGNOLES (España)",|ES| DAZN F1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/74068
-#EXTINF:-1 tvg-id="" tvg-name="|US| NASA TV 4K UHD" tvg-logo="" group-title="ETATS-UNIS ( USA )",|US| NASA TV 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/3089
-#EXTINF:-1 tvg-id="TNTSportsUltimate.uk" tvg-name="|UK| TNT SPORTS ULITMATE HDR 4K" tvg-logo="https://i.imgur.com/8FLAtcl.png" group-title="ANGLAISES (UK)",|UK| TNT SPORTS ULITMATE HDR 4K
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/111893
-#EXTINF:-1 tvg-id="SkySpMainEv.uk" tvg-name="|UK| SKY SPORTS MAIN EVENT 4K UHD" tvg-logo="https://i.imgur.com/wtvzsPl.png" group-title="ANGLAISES (UK)",|UK| SKY SPORTS MAIN EVENT 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/2215
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS 1 4K UHD" tvg-logo="" group-title="ANGLAISES (UK)",|UK| SKY SPORTS 1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/40845
-#EXTINF:-1 tvg-id="" tvg-name="|UK| SKY SPORTS 2 4K UHD" tvg-logo="" group-title="ANGLAISES (UK)",|UK| SKY SPORTS 2 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/148
-#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="|UK| SKY SPORTS F1 4K UHD" tvg-logo="" group-title="ANGLAISES (UK)",|UK| SKY SPORTS F1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/111871
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS FM",##### BEIN SPORTS FM #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/207574
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS NEWS 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/333932
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS NEWS FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986958
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS NEWS HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986993
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS GLOBAL 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/333931
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS GLOBAL FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986957
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS GLOBAL HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986990
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203885
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/73354
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986994
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987011
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203886
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/83132
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986995
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 6 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/73358
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 6 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986999
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 6 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/18106
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 7 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203891
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 7 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/73357
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 7 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987000
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 7 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551298
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 8 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552084
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 8 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/418596
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 8 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987001
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 8 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551299
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 9 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552085
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 9 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/418597
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 9 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987002
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987012
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203887
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 3 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/83133
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 3 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986996
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 3 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/18109
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 4 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203888
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 4 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/73360
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 4 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986997
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 4 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/18108
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 5 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203889
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 5 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/73359
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 5 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986998
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 5 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/18107
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 6 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/203890
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS AFC 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/576864
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="AR | BEIN SPORTS FM",EN - BEIN SPORTS 1 ENGLISH HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987005
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS FM",EN - BEIN SPORTS 2 ENGLISH 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986971
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS FM",EN - BEIN SPORTS 2 ENGLISH FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986986
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS FM",EN - BEIN SPORTS 2 ENGLISH HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987006
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS FM",##### AR - BEIN SPORTS FRENCH FM #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306291
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 FRENCH 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334054
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 FRENCH FHD 
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/211446
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_FRENCH1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 FRENCH HD 
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987007
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 FRENCH 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334055
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 FRENCH FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/211444
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_FRENCH2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 FRENCH HD 
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987008
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS FM",##### BEIN SPORTS AFC FM #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306289
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS AFC 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/576808
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS AFC 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/576857
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 9 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551300
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS FM",##### BEIN SPORTS XTRA FM #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306288
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 1 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552079
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_2.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 2 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552080
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_3.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 3 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552081
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 4 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1150949
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 5 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1150950
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 6 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1150951
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 7 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1150952
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 8 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1150953
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS FM",AR - BEIN SPORTS 9 XTRA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1150954
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS FM",##### BEIN SPORTS ENGLISH FM #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306290
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="AR | BEIN SPORTS FM",EN - BEIN SPORTS 1 ENGLISH 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986970
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="AR | BEIN SPORTS FM",EN - BEIN SPORTS 1 ENGLISH FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986985
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",##### AR - BEIN TOD #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1441989
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 01 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484081
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 02 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484082
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 03 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484083
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 04 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484084
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 05 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484085
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 06 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484086
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 07 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484087
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 08 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484088
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 09 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484089
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 10 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484090
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 11 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484091
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 12 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484092
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 13 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484093
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 14 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484094
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 15 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484095
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 16 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484096
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 17 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484097
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 18 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484098
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 19 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484099
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 20 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484100
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 21 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484101
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 22 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484102
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 23 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484103
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 24 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484104
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 25 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484105
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 26 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484106
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 27 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484107
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 28 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484108
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 29 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484109
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 30 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484110
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 31 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484111
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 32 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484112
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 33 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484113
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 34 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484114
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 35 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484115
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 36 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484116
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 37 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484117
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 38 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484118
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 39 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484119
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 40 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484120
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 41 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484121
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 42 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484122
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 43 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484123
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 44 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484124
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 45 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484125
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 46 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484126
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 47 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484127
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 48 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484128
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 49 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484129
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 50 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484130
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/todd.png" group-title="AR | BEIN TOD",AR - TOD EVENT 51 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1484131
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN SPORTS",##### AR - ALWAN SPORTS #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339208
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN WWE 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339210
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN F1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339211
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN F1 4K¹
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1322608
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN UFC 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339212
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339213
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 4K¹
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1322607
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339223
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 1 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339229
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339214
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339224
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 2 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339230
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339215
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 3 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339225
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 3 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339231
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 4 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339216
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 4 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339226
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 4 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339232
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 5 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339217
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 5 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339227
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 5 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339233
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 6 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339218
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 6 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339228
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 6 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339234
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 7 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339219
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 8 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339220
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 9 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339221
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN SPORTS",AR - ALWAN SPORT 10 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339222
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS SA",##### BEIN SPORTS SA #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986991
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS NEWS 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27925
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS GLOBAL 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986972
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN4K.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1441958
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1023969
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 1 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551241
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27898
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551242
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 2 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27897
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/18110
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986975
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 3 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551294
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 3 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551274
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 4 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986976
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 4 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551275
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 4 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551244
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 5 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986977
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 5 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551276
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 5 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551245
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 6 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986978
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 6 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551277
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 6 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551246
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 7 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986979
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 7 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551278
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 7 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551247
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 8 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986980
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 8 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551279
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 8 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551248
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 9 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986981
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 9 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551280
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS SA",AR - BEIN SPORTS 9 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551249
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 8K",##### BEIN SPORTS 8K #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27903
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS NEWS 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552065
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS NEWS FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552087
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_NEWS1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS NEWS HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/271226
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS GLOBAL 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552066
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS GLOBAL FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/331736
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS GLOBAL HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1347396
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/977115
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 1 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552067
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149613
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 1 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551292
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986959
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 2 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552068
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149614
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 6 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149618
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 6 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986963
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 6 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987016
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 7 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986964
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 7 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552076
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 7 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149619
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_7.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 7 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987017
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 8 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552077
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 8 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/418586
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 8 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986965
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_8.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 8 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987018
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 9 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986966
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 9 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552078
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 9 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/418590
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_9.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 9 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987019
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 8K",##### BEIN SPORTS XTRA 8K #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306293
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551262
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551251
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551250
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 4 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/418514
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 5 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/418511
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 6 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334070
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 7 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334069
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_XTRA_1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 8 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334057
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS XTRA 2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS XTRA 9 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334040
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 8K",##### BEIN SPORTS ENGLISH 8K #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306295
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS ENGLISH 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552082
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_1_ENGLISH1.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS ENGLISH 1 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334051
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 2 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551293
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552069
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 3 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/551243
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 3 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149615
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_3.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 3 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987013
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 4 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986961
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 4 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552073
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 4 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149616
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_4.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 4 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987014
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 5 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/986962
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 5 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552074
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 5 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149617
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_5.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 5 SD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/987015
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_6.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS 6 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552075
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN SPORTS 1 ENGLISH.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS  ENGLISH 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149622
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS ENGLISH 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/552083
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS ENGLISH 2 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/334052
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_2_ENGLISH2.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS ENGLISH 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/149623
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/bss4k.png" group-title="AR | BEIN SPORTS 8K",##### BEIN SPORTS AFC 8K #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1306294
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS AFC 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/331737
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS AFC 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/331738
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AFC111.png" group-title="AR | BEIN SPORTS 8K",AR - BEIN SPORTS AFC 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/331739
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-title="AR | BEIN ENTERTAINMENT",##### AR - BEIN 4K##### 
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1388357
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348401
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348402
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348403
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348404
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES  1 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348405
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES  2 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348406
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348407
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starmovies.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR MOVIES 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348408
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR FILMS 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348410
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SPORTS_GLOBAL.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN ACTION 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348409
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starseries.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR SERIRES 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348411
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/BARAEAM.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BARAEAM 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348412
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/JEEM KIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JEEM 4k
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348413
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-title="AR | BEIN ENTERTAINMENT",##### AR - BEIN UHD #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1226644
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 1 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224820
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224821
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 3 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224822
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 4 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224823
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 5 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224824
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 6 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224825
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 7 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224826
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 8 MOVIES UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224827
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 1 KIDS UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224832
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2 KIDS UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224833
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 3 KIDS UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224834
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 1 UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224828
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 2 UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224829
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 3 UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224830
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/odbein.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN OD 2023 4 UHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224831
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN1.png" group-title="AR | BEIN ENTERTAINMENT",##### AR - BEIN HD #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1226645
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27974
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES2.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27973
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES3.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27972
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_MOVIES4.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27971
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27969
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_SERIES_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27968
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DRAMA_1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 1 HD ◉
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27967
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starmovies.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR MOVIES HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348416
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starfilmes.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR FILMS HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348414
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starseries.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR SERIES HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348417
+#EXTINF:-1 tvg-logo="https://go4.pw/BEIN/starlife.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN STAR LIFE HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348415
+#EXTINF:-1 tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN CARTOONITO HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1348418
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/FOXACTIONMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27948
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE1.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOX OFFICE HD 1
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/312491
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_BOX_OFFICE2.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOX OFFICE HD 2
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/312492
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_GOURMET.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN GOURMET HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/27965
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_BBC_EARTH.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BBC EARTH HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1226343
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DISCOVERY_FAMILY.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY FAMILY HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224819
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_DREAM_WORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DREAM WORK HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224817
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_FOOD_NETWORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOOD NETWORK HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224814
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_HGTV.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN HGTV HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224816
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_TRAVEL.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224815
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BEIN_JUNIOR_KIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JUNIOR KIDS HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1224818
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan1.png" group-title="AR | ALWAN ENTERTAINMENT",##### AR - ALWAN ENTERTAINMENT##### 
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1388358
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN QURAN 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339235
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN ANIME 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339236
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN ATFAL 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339237
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN ALWATHAEQYE 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339238
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AGHANI 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339239
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN KOREA 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339240
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN BOLLYWOOD 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339241
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN MOSALSALAT 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339242
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN MOSALSALAT+ 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339243
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN TURKEY 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339244
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 1 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339245
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 2 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339246
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 3 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339247
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/alwan.png" group-title="AR | ALWAN ENTERTAINMENT",AR - ALWAN AFLAM 4 4K
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1339248
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",##### AR - STARZPLAY #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1167412
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/2M_MONDE.png" group-title="AR | STARZPLAY",STARZPLAY - 2M MONDE FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201617
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/2M_MONDE.png" group-title="AR | STARZPLAY",STARZPLAY - 2M MONDE HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201644
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_1.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 1 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201618
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_1.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201645
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_1_PREMIUM.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 1 PREMIUM FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201619
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201620
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201646
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2_PREMIUM.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 PREMIUM FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201621
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/ABU_DHABI_SPORTS_2_PREMIUM.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2 PREMIUM HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201647
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 2+  FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/975101
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 3+  FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/975100
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - ABU DHABI SPORTS 3+ HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/975103
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ARABIYA.png" group-title="AR | STARZPLAY",STARZPLAY - AL ARABIYA FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201622
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDIQURAN.png" group-title="AR | STARZPLAY",STARZPLAY - SAUDI QURAN HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201664
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SKY_NEWS_ARABIA.png" group-title="AR | STARZPLAY",STARZPLAY - SKY NEWS ARABIA FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201640
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SKY_NEWS_ARABIA.png" group-title="AR | STARZPLAY",STARZPLAY - SKY NEWS ARABIA HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201665
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - SOUAD HOSNY FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201641
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - SOUAD HOSNY HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201666
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - STARZPLAY SPORTS FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201642
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/STARZPLAY_SPORTS.png" group-title="AR | STARZPLAY",STARZPLAY - STARZPLAY SPORTS HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201667
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SURFER.png" group-title="AR | STARZPLAY",STARZPLAY - SURFER FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201643
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SURFER.png" group-title="AR | STARZPLAY",STARZPLAY - SURFER HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201668
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DUBAI_TV.png" group-title="AR | STARZPLAY",STARZPLAY - DUBAI TV HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201657
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/KHALIJYAT.png" group-title="AR | STARZPLAY",STARZPLAY - KHALIJYAT FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201632
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/KHALIJYAT.png" group-title="AR | STARZPLAY",STARZPLAY - KHALIJYAT HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201658
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MAJID_KIDS_TV.png" group-title="AR | STARZPLAY",STARZPLAY - MAJID KIDS TV FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201633
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MAJID_KIDS_TV.png" group-title="AR | STARZPLAY",STARZPLAY - MAJID KIDS TV HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201659
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MBC_PLUS_ELIFE.png" group-title="AR | STARZPLAY",STARZPLAY - MBC PLUS ELIFE FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201634
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/MBC_PLUS_ELIFE.png" group-title="AR | STARZPLAY",STARZPLAY - MBC PLUS ELIFE HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201660
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/NOW_80S.png" group-title="AR | STARZPLAY",STARZPLAY - NOW 80S FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201635
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/NOW_80S.png" group-title="AR | STARZPLAY",STARZPLAY - NOW 80S HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201661
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/POWDER.png" group-title="AR | STARZPLAY",STARZPLAY - POWDER FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201636
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/POWDER.png" group-title="AR | STARZPLAY",STARZPLAY - POWDER HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201662
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDI_1.png" group-title="AR | STARZPLAY",STARZPLAY - SAUDI 1 FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201637
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDI_1.png" group-title="AR | STARZPLAY",STARZPLAY - SAUDI 1 HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201663
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/SAUDIQURAN.png" group-title="AR | STARZPLAY",STARZPLAY - SAUDI QURAN FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201638
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ARABIYA.png" group-title="AR | STARZPLAY",STARZPLAY - AL ARABIYA HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201648
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_EMARAT.png" group-title="AR | STARZPLAY",STARZPLAY - AL EMARAT TV FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201623
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_EMARAT.png" group-title="AR | STARZPLAY",STARZPLAY - AL EMARAT TV HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201649
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ZAEEM.png" group-title="AR | STARZPLAY",STARZPLAY - AL ZAEEM FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201624
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/AL_ZAEEM.png" group-title="AR | STARZPLAY",STARZPLAY - AL ZAEEM HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201650
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BIKE.png" group-title="AR | STARZPLAY",STARZPLAY - BIKE FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201625
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BIKE.png" group-title="AR | STARZPLAY",STARZPLAY - BIKE HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201651
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BILLIARD_PLUS.png" group-title="AR | STARZPLAY",STARZPLAY - BILLIARD PLUS FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201626
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/BILLIARD_PLUS.png" group-title="AR | STARZPLAY",STARZPLAY - BILLIARD PLUS HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201652
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/CNBC_ARABIYA.png" group-title="AR | STARZPLAY",STARZPLAY - CNBC ARABIYA FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201627
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/CNBC_ARABIYA.png" group-title="AR | STARZPLAY",STARZPLAY - CNBC ARABIYA HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201653
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DAZN_FHD.png" group-title="AR | STARZPLAY",STARZPLAY - DAZN FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201630
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DAZN_FHD.png" group-title="AR | STARZPLAY",STARZPLAY - DAZN HD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201656
+#EXTINF:-1 tvg-logo="https://go4.pw/ARABE/DUBAI_TV.png" group-title="AR | STARZPLAY",STARZPLAY - DUBAI TV FHD
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1201631
+#EXTINF:-1 tvg-logo="https://go4.pw/ASIA/SAUDI/SAUDI.png" group-title="AR | DAZN",##### AR - DAZN EVENT  #####
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1402980
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 001 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470044
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 002 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470045
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 003 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470046
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 004 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470047
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 005 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470048
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 006 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470049
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 007 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470050
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 008 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470051
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 009
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470052
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 010 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470053
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 011 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470054
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 012 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470055
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 013 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470056
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 028 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470071
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 029 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470072
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 030 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470073
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 031 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470074
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 032 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470075
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 033 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470076
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 034 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470077
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 035 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470078
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 036 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470079
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 037 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470080
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 038 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470081
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 039 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470082
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 040 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470083
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 041 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470084
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 014 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470057
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 015 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470058
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 016 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470059
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 017 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470060
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 018 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470061
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 019 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470062
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 020 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470063
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 021 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470064
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 022 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470065
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 023 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470066
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 024 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470067
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 025 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470068
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 026 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470069
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 027 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470070
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 042 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470085
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 043 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470086
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 044 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470087
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 045 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470088
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 046 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470089
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 047 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470090
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 048 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470091
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 049 :
+http://qtafrmhe.bymagott.com:80/B81FSKAN770H7NS/aUl3Blh4pn/1470092
+#EXTINF:-1 tvg-logo="https://go4.pw/SPAIN/DAZN.png" group-title="AR | DAZN",AR - DAZN 050 :
