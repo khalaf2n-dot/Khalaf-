@@ -1,75 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|FR| TF1 4K HDR UHD (Résolution Exclus)" tvg-logo="https://i.imgur.com/UlG9dS2.png" group-title="FR TV FULL HD|4K  (France)",|FR| TF1 4K HDR UHD (Résolution Exclus)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/37744
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="|FR| FRANCE 2 4K UHD" tvg-logo="https://i.imgur.com/HJR98j4.png" group-title="FR TV FULL HD|4K  (France)",|FR| FRANCE 2 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112613
-#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="|FR| CANAL+ 4K HDR UHD (Résolution Exclusive)" tvg-logo="https://i.imgur.com/VS7FjBB.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ 4K HDR UHD (Résolution Exclusive)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/4075
-#EXTINF:-1 tvg-id="CanalPlusBoxOffice.fr" tvg-name="|FR| CANAL+ BOX OFFICE 4K UHD" tvg-logo="https://i.imgur.com/WVqzvbp.png" group-title="FR TV FULL HD|4K  (France)",|FR| CANAL+ BOX OFFICE 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112612
-#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="|FR| CANAL+ ÉVÉNEMENT 4K HDR" tvg-logo="https://i.imgur.com/JBURuLN.png" group-title="FR SPORTS (France)",|FR| CANAL+ ÉVÉNEMENT 4K HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/24083
-#EXTINF:-1 tvg-id="TVLux.be" tvg-name="|FR| LUXE TV 4K UHD" tvg-logo="https://i.imgur.com/1pVyxZ0.png" group-title="FR TV FULL HD|4K  (France)",|FR| LUXE TV 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/19566
-#EXTINF:-1 tvg-id="" tvg-name="|FR| LIGUE 1+ LA CHAINE 4K UHD" tvg-logo="https://i.imgur.com/7DU9oT6.png" group-title="LIGUE 1+ FRANCE | DAZN| MAGNUS TV | FANSEAT FRANCE",|FR| LIGUE 1+ LA CHAINE 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/201989
-#EXTINF:-1 tvg-id="" tvg-name="|CH| BLUE SPORT 1 4K HDR (EXCLUSIVE)" tvg-logo="https://i.imgur.com/ToL8uYp.png" group-title="SUISSES (SWITZERLAND)",|CH| BLUE SPORT 1 4K HDR (EXCLUSIVE)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/35266
-#EXTINF:-1 tvg-id="" tvg-name="|CH| BLUE SPORT 2 4K HDR (EXCLUSIVE)" tvg-logo="https://i.imgur.com/ToL8uYp.png" group-title="SUISSES (SWITZERLAND)",|CH| BLUE SPORT 2 4K HDR (EXCLUSIVE)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/35267
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="|TOD| EVENT 1 4K HDR (LIVE EVENT ONLY)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT 1 4K HDR (LIVE EVENT ONLY)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112078
-#EXTINF:-1 tvg-id="beINSportsMax1.qa" tvg-name="|TOD| EVENT 2 4K HDR (LIVE EVENT ONLY)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT 2 4K HDR (LIVE EVENT ONLY)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/3644
-#EXTINF:-1 tvg-id="" tvg-name="|TOD| EVENT 3 4K HDR (LIVE EVENT ONLY)" tvg-logo="https://adtechtodayme.com/wp-content/uploads/2026/05/tod-becomes-tod-by-bein-ahead-of-fifa-world-cup-2026-675x675.png" group-title="TOD by beIN ARABIC |LIVE EVENT ONLY|",|TOD| EVENT 3 4K HDR (LIVE EVENT ONLY)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/111992
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="|ES| TVE LA 1 4K UHD" tvg-logo="http://i.imgur.com/XtAYr2M.png" group-title="ESPAGNOLES (España)",|ES| TVE LA 1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112493
-#EXTINF:-1 tvg-id="Ten.es" tvg-name="|ES| DAZN F1 4K UHD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="ESPAGNOLES (España)",|ES| DAZN F1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/74068
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV-4K UHD" tvg-logo="http://i.imgur.com/cS8OXRM.png" group-title="PORTUGAISES (Português)",|PT| SPORT TV-4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/1892
-#EXTINF:-1 tvg-id="" tvg-name="|USA| FOX SPORTS 1 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/3840px-Fox_Sports_1_logo.svg.png" group-title="SPORT INTERNATIONAL ( STAN | SETANTA|  TENNIS TV )",|USA| FOX SPORTS 1 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/111883
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA| ESPN 4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="SPORT INTERNATIONAL ( STAN | SETANTA|  TENNIS TV )",|USA| ESPN 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112020
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="|USA| BIG TEN NETWORK 4K UHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/btn_outlined_stacked_blue_4k.png" group-title="SPORT INTERNATIONAL ( STAN | SETANTA|  TENNIS TV )",|USA| BIG TEN NETWORK 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112081
-#EXTINF:-1 tvg-id="" tvg-name="|USA| FOX 4K UHD" tvg-logo="" group-title="INFINITY ETATS-UNIS ( USA FULL CHANNELS )",|USA| FOX 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/111917
-#EXTINF:-1 tvg-id="" tvg-name="|USA| NBC 4K UHD" tvg-logo="" group-title="INFINITY ETATS-UNIS ( USA FULL CHANNELS )",|USA| NBC 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/111909
-#EXTINF:-1 tvg-id="" tvg-name="|US| NASA TV 4K UHD" tvg-logo="" group-title="ETATS-UNIS ( USA )",|US| NASA TV 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/3089
-#EXTINF:-1 tvg-id="ESPN.nl" tvg-name="|NL| ESPN 1 4K HDR UHD" tvg-logo="" group-title="PAYS-BAS (NETHERLANDS)",|NL| ESPN 1 4K HDR UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/5155
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-name="|NL| ESPN 2 4K HDR UHD" tvg-logo="" group-title="PAYS-BAS (NETHERLANDS)",|NL| ESPN 2 4K HDR UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/5152
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-name="|NL| ESPN 3 4K HDR UHD" tvg-logo="" group-title="PAYS-BAS (NETHERLANDS)",|NL| ESPN 3 4K HDR UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/5148
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-name="|NL| ESPN 4 4K HDR UHD" tvg-logo="" group-title="PAYS-BAS (NETHERLANDS)",|NL| ESPN 4 4K HDR UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/5130
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-name="|NL| ZIGGO SPORT 4K UHD" tvg-logo="" group-title="PAYS-BAS (NETHERLANDS)",|NL| ZIGGO SPORT 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/4439
-#EXTINF:-1 tvg-id="" tvg-name="|PL| Travel XP 4K UHD HDR" tvg-logo="" group-title="POLONAISES (Polonez)",|PL| Travel XP 4K UHD HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112244
-#EXTINF:-1 tvg-id="" tvg-name="|PL| Love Nature 4K UHD HDR" tvg-logo="" group-title="POLONAISES (Polonez)",|PL| Love Nature 4K UHD HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112192
-#EXTINF:-1 tvg-id="" tvg-name="|PL| Museum TV 4K UHD HDR" tvg-logo="" group-title="POLONAISES (Polonez)",|PL| Museum TV 4K UHD HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112190
-#EXTINF:-1 tvg-id="" tvg-name="|PL| MyZen 4K UHD HDR" tvg-logo="" group-title="POLONAISES (Polonez)",|PL| MyZen 4K UHD HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112189
-#EXTINF:-1 tvg-id="Canalplus4K.pl" tvg-name="|PL| CANAL+ 4K HDR UHD (EXCLUS)" tvg-logo="" group-title="POLONAISES (Polonez)",|PL| CANAL+ 4K HDR UHD (EXCLUS)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/2899
-#EXTINF:-1 tvg-id="ElevenSports1.pl" tvg-name="|PL| ELEVEN SPORT 4K HDR (EXCLUS)" tvg-logo="" group-title="POLONAISES (Polonez)",|PL| ELEVEN SPORT 4K HDR (EXCLUS)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/2919
-#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="|IT| RAI 4K HDR" tvg-logo="http://91.107.172.155:80/images/805ae532b74965991eab35492821b61e.png" group-title="ITALIENNES (ITALIANA)",|IT| RAI 4K HDR
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/2908
-#EXTINF:-1 tvg-id="" tvg-name="|GR| COSMOTE SPORT 4K HDR (EXCLUSIVE)" tvg-logo="https://i.imgur.com/UnHAyFF.png" group-title="Grecques ( ελληνικά )",|GR| COSMOTE SPORT 4K HDR (EXCLUSIVE)
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112229
-#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI 4K UHD" tvg-logo="" group-title="Roumaines (Romanian)",|RO| DIGI 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112418
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="|RO| PRIMA SPORT 4K UHD" tvg-logo="" group-title="Roumaines (Romanian)",|RO| PRIMA SPORT 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/112452
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="|TR| TRT 4K UHD" tvg-logo="http://tvlogos.sytes.net/tv-logos/countries/turkey/trt-4k-tr.png" group-title="TURQUES (Türk)",|TR| TRT 4K UHD
-http://www.r56mail.top:80/HJKLMPOUK/mGTaKPD/32146
+#EXTINF:-1 tvg-id="" tvg-name="|F" tvg-logo="https://i.imgur.com/UlG9dS2.png" group-title="FR)", text
+http://sa.xurvani.cfd/live/564500400/3839746022/834441.ts
+http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723479.ts
+http://vlue.vip:80/live/958932105432/576184553975/790018.m3u8
+http://sa.xurvani.cfd/live/564500400/3839746022/834440.ts
+http://silka.m3um9xplus.org:2052/live/10375497945304/24779171855387/723480.ts
+http://vlue.vip:80/live/958932105432/576184553975/790017.m3u8
