@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https://github.com/khalaf2n-dot/Khalaf-/blob/main/MagicEraser_261124_051114.png" group-title="  (-)", 01
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/MagicEraser_261124_051114.png" group-title="  (-)", 01
 http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275560.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https://github.com/khalaf2n-dot/Khalaf-/blob/main/MagicEraser_261124_051114.png" group-title="  (-)", 02
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https://raw.githubusercontent.com/khalaf2n-dot/Khalaf-/refs/heads/main/MagicEraser_261124_051114.png" group-title="  (-)", 02
 http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275559.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 03
 http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275558.ts
