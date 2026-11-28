@@ -1,57 +1,201 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 01
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346835.m3u8
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 02
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346836.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 03
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 03
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 04
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 05
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 06
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 07
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 08
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 09
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 10
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 11
 http://asmr4k.pro:8080/live/9210995066/0295009597/1346837.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 04
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346838.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 05
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346839.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 06
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346840.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 07
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346841.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 08
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 09
-http://asmr4k.pro:8080/live/9210995066/0295009597/1346843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 10
-https://alok.mohamedabomalek632.workers.dev:443/635.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 11
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275531.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 12
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275533.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 13
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275534.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 14
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275536.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 15
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275401.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 16
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275402.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 17
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275405.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 18
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275409.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 19
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275412.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 20
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275417.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 21
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275423.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 22
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275427.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 23
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275433.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 24
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275437.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 25
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275441.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 26
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275446.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 27
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275451.ts
-#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="http" group-title="  (-)", 28
-http://51694048.tv-maroc.space/live/IPTVMOUSERFR278/77785578/1275462.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 12
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346379.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 13
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 14
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 15
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 16
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 17
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 18
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 19
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 20
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 21
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 22
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346346.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 23
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 24
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 25
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 26
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346719.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 27
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 28
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346852.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 29
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 30
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346325.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 31
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 32
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 33
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346761.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 34
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346407.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 35
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346883.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 36
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 37
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 38
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 39
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 40
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 41
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 42
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346472.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 43
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 44
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 45
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 46
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 47
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 48
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346871.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 49
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 50
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 51
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 52
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 53
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 54
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 55
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 56
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 57
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 58
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 59
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 60
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346418.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 61
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 62
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 63
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 64
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 65
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 66
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346864.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 67
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 68
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 69
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 70
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 71
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346386.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 72
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 73
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 74
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 75
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346847.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 76
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 77
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 78
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 79
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 80
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 81
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 82
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 83
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 84
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 85
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346364.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 86
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 87
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 88
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 89
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346451.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 90
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 91
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 92
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 93
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 94
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 95
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 96
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 97
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 98
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 99
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346619.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| " tvg-logo="https" group-title="  (-)", 100
+http://asmr4k.pro:8080/live/9210995066/0295009597/1346888.m3u8
